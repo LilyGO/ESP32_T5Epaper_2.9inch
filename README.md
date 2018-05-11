@@ -171,7 +171,4 @@ Tested on Waveshare 2.9" ePaper module connected to SparkFun ESP32 Thing board.
 ---
 
 
-![Rotated](https://raw.githubusercontent.com/loboris/ESP32_ePaper_example/master/Documents/EPD-Rotated.jpg)
-![7-segFont](https://raw.githubusercontent.com/loboris/ESP32_ePaper_example/master/Documents/EPD-7sef_font.jpg)
-![Grayscale](https://raw.githubusercontent.com/loboris/ESP32_ePaper_example/master/Documents/EPD_Grayscale.jpg)
-![No power](https://raw.githubusercontent.com/loboris/ESP32_ePaper_example/master/Documents/EPD-No_power.jpg)
+
