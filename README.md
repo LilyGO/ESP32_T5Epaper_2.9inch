@@ -1,7 +1,7 @@
 
 ### ESP32_T5Epaper_2.9inch
 
-![Fonts](https://github.com/LilyGO/ESP32_T5Epaper_2.9inch/blob/master/Documents/1.jpg)
+![Fonts](https://github.com/LilyGO/ESP32_T5Epaper_2.9inch/blob/master/Documents/image.jpg)
 
 #### Features
 
