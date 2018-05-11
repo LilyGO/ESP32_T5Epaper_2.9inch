@@ -21,9 +21,9 @@
 #define SCK_Pin		18
 #define MOSI_Pin	23
 //#define MISO_Pin	19
-#define DC_Pin		26
-#define BUSY_Pin	32
-#define RST_Pin		27
+#define DC_Pin		17
+#define BUSY_Pin	4
+#define RST_Pin		16
 #define CS_Pin		5
 // ePaper display can be powered from GPIO
 // if powered directly from Vcc, set this to 0
