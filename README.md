@@ -2,7 +2,7 @@
 ### ePaper library for ESP32
 
 ---
-
+![Fonts](https://github.com/LilyGO/ESP32_T5Epaper_2.9inch/blob/master/Documents/1.jpg)
 
 #### Features
 
@@ -170,7 +170,7 @@ Tested on Waveshare 2.9" ePaper module connected to SparkFun ESP32 Thing board.
 
 ---
 
-![Fonts](https://raw.githubusercontent.com/loboris/ESP32_ePaper_example/master/Documents/EPD-fonts.jpg)
+
 ![Rotated](https://raw.githubusercontent.com/loboris/ESP32_ePaper_example/master/Documents/EPD-Rotated.jpg)
 ![7-segFont](https://raw.githubusercontent.com/loboris/ESP32_ePaper_example/master/Documents/EPD-7sef_font.jpg)
 ![Grayscale](https://raw.githubusercontent.com/loboris/ESP32_ePaper_example/master/Documents/EPD_Grayscale.jpg)
